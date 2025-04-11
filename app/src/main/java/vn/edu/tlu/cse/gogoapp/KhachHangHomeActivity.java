@@ -10,7 +10,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class KhachHangHomeActivity extends AppCompatActivity {
-
+//
     private Button btnThueXe, btnDangKyVeThang, btnDangXuat, btnLichSu;
     private void checkIfUserHasReturnedBike() {
         String userId = FirebaseAuth.getInstance().getCurrentUser().getUid();

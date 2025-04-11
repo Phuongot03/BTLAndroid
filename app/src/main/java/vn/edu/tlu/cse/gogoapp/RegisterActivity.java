@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RegisterActivity extends AppCompatActivity {
-
+//
     EditText edtHoTen, edtEmail, edtMatKhau, edtSoDienThoai;
     RadioGroup radioGroupRole;
     RadioButton rbNhanVien, rbKhachHang;
